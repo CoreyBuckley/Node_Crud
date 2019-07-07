@@ -1,0 +1,20 @@
+{
+  "name": "postgrestest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^7.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "postgres",
+    "api",
+    "nodejs"
+  ],
+  "author": "corey",
+  "license": "ISC"
+}
